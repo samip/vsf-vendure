@@ -69,5 +69,8 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "shx": "^0.3.4"
+  }
 }
